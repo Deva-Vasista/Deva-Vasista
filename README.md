@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasista</h1>
 <h3 align="center">A passionate Software developer from India. I love to experiment with all kinds of tech.</h3>
 
-- 🌱 I’m currently learning **Deep Learning and MLOps**
+- 🌱 I’m currently learning **Data Engineering, DSA and MLOps**
 
 - 💬 Ask me about **Python, Data Analysis and Machine Learning**
 
